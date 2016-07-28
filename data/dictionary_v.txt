@@ -1530,7 +1530,7 @@ salvage
 sap
 satisfy
 saturate
-saut
+sauté
 save
 savor
 say
