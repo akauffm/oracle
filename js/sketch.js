@@ -71,12 +71,12 @@ function listener(e) {
   };
 
   p.mouseReleased = function() {
-    if (turnAxis == 'Z'){
-    generateFortune();
-  }
 };
 
   p.deviceTurned = function() {
+       if (turnAxis == 'Z'){
+    generateFortune();
+  }
 };
 };
 
