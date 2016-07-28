@@ -74,9 +74,7 @@ function listener(e) {
 };
 
   p.deviceTurned = function() {
-       if (turnAxis == 'Z'){
     generateFortune();
-  }
 };
 };
 
